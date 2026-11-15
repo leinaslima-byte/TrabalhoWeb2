@@ -1,0 +1,18 @@
+{
+  "cadastros": [
+    {
+      "titulo": "senhor dos aneis",
+      "ano": 2001,
+      "tipo": "Filme",
+      "assistido": false,
+      "id": 1
+    },
+    {
+      "titulo": "vingadores",
+      "ano": 2000,
+      "tipo": "Série",
+      "assistido": false,
+      "id": 2
+    }
+  ]
+}
