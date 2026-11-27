@@ -1,18 +1,14 @@
 {
   "cadastros": [
-    {
-      "titulo": "senhor dos aneis",
-      "ano": 2001,
-      "tipo": "Filme",
-      "assistido": false,
-      "id": 1
-    },
-    {
-      "titulo": "vingadores",
-      "ano": 2000,
-      "tipo": "Série",
-      "assistido": false,
-      "id": 2
-    }
+    { "id": 1, "titulo": "O Auto da Compadecida", "ano": 2000, "tipo": "Filme", "assistido": true },
+    { "id": 2, "titulo": "Tropa de Elite", "ano": 2007, "tipo": "Filme", "assistido": true },
+    { "id": 3, "titulo": "Central do Brasil", "ano": 1998, "tipo": "Filme", "assistido": false },
+    { "id": 4, "titulo": "Bacurau", "ano": 2019, "tipo": "Filme", "assistido": false },
+    { "id": 5, "titulo": "Que Horas Ela Volta?", "ano": 2015, "tipo": "Filme", "assistido": true },
+    { "id": 6, "titulo": "Titanic", "ano": 1997, "tipo": "Filme", "assistido": true },
+    { "id": 7, "titulo": "Toy Story", "ano": 1995, "tipo": "Filme", "assistido": true },
+    { "id": 8, "titulo": "O Rei Leão", "ano": 1994, "tipo": "Filme", "assistido": true },
+    { "id": 9, "titulo": "Homem-Aranha: Através do Aranhaverso", "ano": 2023, "tipo": "Filme", "assistido": false },
+    { "id": 10, "titulo": "Duna", "ano": 2021, "tipo": "Filme", "assistido": false }
   ]
 }
